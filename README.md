@@ -20,21 +20,6 @@ The dataset contains abdominal CT imaging data and corresponding segmentation ma
 
 The segmentation model is based on **Attention U-Net**, an extension of the U-Net architecture that incorporates attention gates to improve feature selection during segmentation.
 
-## Repository Structure
-
-Liver-Tumor-Segmentation-Using-Attention-U-Net/
-|
-|-- notebooks/
-|   -- attention-unet-lits-kaggle.ipynb
-|
-|-- docs/
-|   -- Liver Tumor Segmentation Using Attention U-Net.pdf
-|
-|-- result/
-|   -- summery-poster.pptx
-|
-|-- README.md
-
 ## Implementation
 
 The current implementation is provided as a Jupyter Notebook and was developed and executed using Kaggle.
